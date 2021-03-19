@@ -1,6 +1,7 @@
 <h1 align="center">Welcome! Im s1moscs.</h1>
 <h3 align="center">What im working on right now?</h3>
-
+<h3 align="center">And why i dont have repos?</h3>
+<h4 align="center">Well thats just bec right now all my projects are private! but dont worry, ill open them in some time!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulhackzlol&label=Profile%20views&color=0e75b6&style=flat" alt="soulhackzlol" /> </p>
 
 - 🔭 I’m currently working on **PHP Web Panel**
