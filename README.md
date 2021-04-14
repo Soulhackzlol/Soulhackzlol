@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **PHP Web Panel**
 
-- 🌱 I’m currently learning **Oauth2 integrations.**
+- 🌱 I’m currently learning **Cloud Based Clients.**
 
 - 👯 Also im currently working on **SoulCheats**
 
@@ -14,7 +14,7 @@
 
 - 📫 Reach me on discord! **s1moscs#7508**
 
-- ⚡ Fun fact **Had to check discord Docs + than 475 times!**
+- ⚡ Fun fact **Every time i code, the first song i always play is: Help herslef - bbno$!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
