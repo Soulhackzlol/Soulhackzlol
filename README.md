@@ -14,7 +14,7 @@
 
 - 📫 Reach me on discord! **s1moscs#7508**
 
-- ⚡ Fun fact **fxck "std::" fr ;) **
+- ⚡ Fun fact fxck "std::" fr ;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
