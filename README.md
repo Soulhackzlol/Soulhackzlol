@@ -4,17 +4,17 @@
 <h4 align="center">Well thats just bec right now all my projects are private! but dont worry, ill open them in some time!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulhackzlol&label=Profile%20views&color=0e75b6&style=flat" alt="soulhackzlol" /> </p>
 
-- 🔭 I’m currently working on **PHP Web Panel**
+- 🔭 I’m currently working on **Cloud Based Client**
 
 - 🌱 I’m currently learning **Cloud Based Clients.**
 
-- 👯 Also im currently working on **SoulCheats**
+- 👯 Also im currently working on **Cypher.wtf**
 
 - 🤝 Im helping on **AI neural network**
 
 - 📫 Reach me on discord! **s1moscs#7508**
 
-- ⚡ Fun fact **Every time i code, the first song i always play is: Help herslef - bbno$!**
+- ⚡ Fun fact **fxck "std::" fr ;) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
