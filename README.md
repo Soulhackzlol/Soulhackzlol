@@ -1,20 +1,17 @@
 <h1 align="center">Welcome! Im s1moscs.</h1>
-<h3 align="center">What im working on right now?</h3>
-<h3 align="center">And why i dont have repos?</h3>
-<h4 align="center">Well thats just bec right now all my projects are private! but dont worry, ill open them in some time!</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulhackzlol&label=Profile%20views&color=0e75b6&style=flat" alt="soulhackzlol" /> </p>
 
-- 🔭 I’m currently working on **Cloud Based Client**
+- 🔭 I’m currently working on **znix-panel-v69** (based on the original znixpanel-v2)
 
-- 🌱 I’m currently learning **Cloud Based Clients.**
+- 🌱 I’m currently mastering **responsive css / design**
 
-- 👯 Also im currently working on **Cypher.wtf**
+- 👯 Also im currently working on **Znix Panel v69**
 
-- 🤝 Im helping on **AI neural network**
+- 🤝 Im helping on **Security research**
 
 - 📫 Reach me on discord! **s1moscs#7508**
 
-- ⚡ Fun fact fxck "std::" fr ;)
+- ⚡ Fun fact (or not so fun fact) i cant code for more than 30 min since i get too stressed. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
