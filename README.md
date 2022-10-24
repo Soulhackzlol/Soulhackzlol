@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently mastering **responsive css / design**
 
-- 👯 Also im currently working on **Znix Panel v69**
-
 - 🤝 Im helping on **Security research**
 
 - 📫 Reach me on discord! **s1moscs#7508**
