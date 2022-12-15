@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **znix-panel-v69** (based on the original znixpanel-v2)
 
-- 🌱 I’m currently mastering **responsive css / design**
+- 🌱 I’m currently mastering **maths (lol)**
 
-- 🤝 Im helping on **Security research**
+- 🤝 Im helping on **Security research v2 lmao**
 
 - 📫 Reach me on discord! **s1moscs#7508**
 
@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/s1moscs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s1moscs" height="30" width="40" /></a>
 <a href="https://instagram.com/s1moscs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="s1moscs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sr.s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sr.s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/s1moscs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sr.s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
