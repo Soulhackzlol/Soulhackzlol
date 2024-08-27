@@ -1,15 +1,15 @@
 <h1 align="center">Welcome! Im s1moscs.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulhackzlol&label=Profile%20views&color=0e75b6&style=flat" alt="soulhackzlol" /> </p>
 
-- 🔭 I’m currently working on **znix-panel-v69** (based on the original znixpanel-v2)
+- 🔭 I’m currently working on **Ultimate Tournament** a PVP PVE pokemon based FiveM server.
 
-- 🌱 I’m currently mastering **maths (lol)**
+- 🌱 I’m currently mastering **lua** (again)
 
-- 🤝 Im helping on **Security research v2 lmao**
+- 🤝 Im helping on **Toolorant** a tool for Valorant (duhh)
 
-- 📫 Reach me on discord! **s1moscs#7508**
+- 📫 Reach me on discord! **s1moscs**
 
-- ⚡ Fun fact (or not so fun fact) i cant code for more than 30 min since i get too stressed. 
+- ⚡ Fun fact most of my ideas come from my dreams or just walking around the park!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
