@@ -1,15 +1,15 @@
 <h1 align="center">Welcome! Im s1moscs.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulhackzlol&label=Profile%20views&color=0e75b6&style=flat" alt="soulhackzlol" /> </p>
 
-- 🔭 I’m currently working on **Ultimate Tournament** a PVP PVE pokemon based FiveM server.
+- 🔭 I’m currently working on **MY_VOID** a sexy ahh clothing brand.
 
-- 🌱 I’m currently mastering **lua** (again)
+- 🌱 I’m currently mastering **typescript** and electron stuff.
 
-- 🤝 Im helping on **Toolorant** a tool for Valorant (duhh)
+- 🤝 Im helping on **AI Models Training**
 
 - 📫 Reach me on discord! **s1moscs**
 
-- ⚡ Fun fact most of my ideas come from my dreams or just walking around the park!
+- ⚡ Never give up! It's all a process :D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
