@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 340" width="1080" height="340" role="img" aria-label="s1moscs — builds things i'd actually use">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0d1218"/>
+      <stop offset="100%" stop-color="#07080a"/>
+    </linearGradient>
+    <pattern id="grid" x="0" y="0" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" fill-opacity="0.045"/>
+    </pattern>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5AC8FA">
+        <animate attributeName="stop-color" values="#5AC8FA;#7FE0EC;#5AC8FA" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7FE0EC">
+        <animate attributeName="stop-color" values="#7FE0EC;#5AC8FA;#7FE0EC" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#5AC8FA">
+        <animate attributeName="stop-color" values="#5AC8FA;#7FE0EC;#5AC8FA" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="aurora" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#5AC8FA" stop-opacity="0.24"/>
+      <stop offset="100%" stop-color="#5AC8FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aurora2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="#a78bfa" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="7"/>
+      <feColorMatrix values="0 0 0 0 1
+                             0 0 0 0 1
+                             0 0 0 0 1
+                             0 0 0 0.04 0"/>
+    </filter>
+  </defs>
+
+  <!-- Backdrop -->
+  <rect width="1080" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1080" height="340" rx="18" fill="url(#grid)"/>
+  <rect width="1080" height="340" rx="18" filter="url(#grain)" opacity="0.45"/>
+
+  <!-- Aurora blobs — slow drift -->
+  <ellipse cx="360" cy="170" rx="380" ry="160" fill="url(#aurora)">
+    <animate attributeName="cx" values="360;420;360" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="380;420;380" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="780" cy="200" rx="280" ry="140" fill="url(#aurora2)">
+    <animate attributeName="cx" values="780;720;780" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Faint XL "@" decorations on either side, very subtle -->
+  <text x="60" y="270" font-family="JetBrains Mono, ui-monospace, monospace" font-size="240" font-weight="100" fill="#5AC8FA" opacity="0.04">@</text>
+  <text x="860" y="270" font-family="JetBrains Mono, ui-monospace, monospace" font-size="240" font-weight="100" fill="#5AC8FA" opacity="0.04">@</text>
+
+  <!-- Tiny eyebrow label -->
+  <text x="540" y="92"
+        font-family="-apple-system, Segoe UI, Inter, sans-serif"
+        font-size="11" font-weight="600" letter-spacing="5"
+        text-anchor="middle" fill="#5AC8FA" opacity="0.7">
+    SELF-TAUGHT  ·  MADE  IN  SPAIN
+  </text>
+
+  <!-- HUGE handle — outer glow clone + sharp top -->
+  <text x="540" y="190"
+        font-family="JetBrains Mono, ui-monospace, monospace"
+        font-size="116" font-weight="800" letter-spacing="-5"
+        text-anchor="middle"
+        fill="url(#cyan)" opacity="0.45" filter="url(#textGlow)">s1moscs</text>
+  <text x="540" y="190"
+        font-family="JetBrains Mono, ui-monospace, monospace"
+        font-size="116" font-weight="800" letter-spacing="-5"
+        text-anchor="middle"
+        fill="url(#cyan)">s1moscs</text>
+
+  <!-- Accent line that pulses + extends -->
+  <line x1="500" y1="218" x2="580" y2="218"
+        stroke="#5AC8FA" stroke-width="1.6" stroke-linecap="round" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="x1" values="500;480;500" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="580;600;580" dur="2.6s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Tagline -->
+  <text x="540" y="252"
+        font-family="-apple-system, Segoe UI, Inter, sans-serif"
+        font-size="16" font-weight="500" letter-spacing="1"
+        text-anchor="middle" fill="#bcc1cf">
+    builds things i'd actually use
+  </text>
+
+  <!-- Footer URL pill -->
+  <g transform="translate(540, 290)">
+    <rect x="-72" y="-15" width="144" height="28" rx="14"
+          fill="#0a0c12" stroke="rgba(90,200,250,0.4)"/>
+    <text x="0" y="4"
+          font-family="JetBrains Mono, ui-monospace, monospace"
+          font-size="12" font-weight="600" letter-spacing="1.5"
+          text-anchor="middle" fill="#5AC8FA">→ s1moscs.dev</text>
+  </g>
+</svg>
