@@ -52,10 +52,6 @@
     <animate attributeName="cx" values="780;720;780" dur="16s" repeatCount="indefinite"/>
   </ellipse>
 
-  <!-- Faint XL "@" decorations on either side, very subtle -->
-  <text x="60" y="270" font-family="JetBrains Mono, ui-monospace, monospace" font-size="240" font-weight="100" fill="#5AC8FA" opacity="0.04">@</text>
-  <text x="860" y="270" font-family="JetBrains Mono, ui-monospace, monospace" font-size="240" font-weight="100" fill="#5AC8FA" opacity="0.04">@</text>
-
   <!-- Tiny eyebrow label -->
   <text x="540" y="92"
         font-family="-apple-system, Segoe UI, Inter, sans-serif"
@@ -89,7 +85,7 @@
         font-family="-apple-system, Segoe UI, Inter, sans-serif"
         font-size="16" font-weight="500" letter-spacing="1"
         text-anchor="middle" fill="#bcc1cf">
-    builds things i'd actually use
+    "fixing my problems with code."
   </text>
 
   <!-- Footer URL pill -->
