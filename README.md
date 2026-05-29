@@ -26,7 +26,7 @@ heads up: most of my code lives in private repos and client work, so the green-s
 ### 📡 InstantClone
 
 free, open-source RTMP delay proxy for streamers. wrote it because the polished one was paid and i wanted something i could rebuild from scratch.
-
+<br><br><br>
 <sub>· [github →](https://github.com/Soulhackzlol/instantclone) · rust · windows</sub>
 
 </td>
@@ -35,9 +35,9 @@ free, open-source RTMP delay proxy for streamers. wrote it because the polished 
 ### 🛰 Crossr
 
 the on-demand script runner that should have existed 10 years ago. write a script once in CrossrScript, paste a curl on any machine, watch the output stream live in your browser. same script compiles to bash on linux + powershell on windows. no agent, no per-device pricing.
-
+<br>
 <sub>· in the works · ts · next · electron</sub>
-
+<br><br>
 </td>
 </tr>
 </table>
