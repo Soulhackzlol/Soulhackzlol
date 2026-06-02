@@ -11,7 +11,7 @@
 
 ## hey
 
-i'm s1mos. self-taught dev from spain. i build software i'd actually use myself, and stream sometimes.
+i'm s1moscs. self-taught dev from spain. i build software i'd actually use myself, and stream sometimes.
 
 heads up: most of my code lives in private repos and client work, so the green-square heatmap up there undersells what's actually going on. the projects below + my site are the real signal.
 
