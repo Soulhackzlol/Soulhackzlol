@@ -34,9 +34,9 @@ free, open-source RTMP delay proxy for streamers. wrote it because the polished 
 
 ### 🛰 Crossr
 
-the on-demand script runner that should have existed 10 years ago. write a script once in CrossrScript, paste a curl on any machine, watch the output stream live in your browser. same script compiles to bash on linux + powershell on windows. no agent, no per-device pricing.
+the on-demand script runner that should have existed 10 years ago. write a setup once, paste one short line on any machine, watch it configure itself live in your browser. hand-written compiler, so the same script becomes bash or powershell and runs on windows, linux and macos. agentless by default, optional agent if you want the machine to keep checking in.
 <br>
-<sub>· in the works · ts · next · electron</sub>
+<sub>· in the works · python · fastapi · next · custom dsl</sub>
 <br><br>
 </td>
 </tr>
