@@ -27,7 +27,7 @@ heads up: most of my code lives in private repos and client work, so the green-s
 
 free, open-source RTMP delay proxy for streamers. wrote it because the polished one was paid and i wanted something i could rebuild from scratch.
 <br><br><br>
-<sub>· [github →](https://github.com/Soulhackzlol/instantclone) · rust · windows</sub>
+<sub>· [github →](https://github.com/Soulhackzlol/instantclone) · rust · windows · linux</sub>
 
 </td>
 <td valign="top" width="50%">
